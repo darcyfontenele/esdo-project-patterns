@@ -10,7 +10,7 @@ Para rodar o projeto basta seguir os passos listados a seguir:
 1. Download
     - Execute o comando abaixo no terminal.
         ```
-        git clone https://github.com/darcyfontenele/esdp-padroes-de-projetos.git
+        git clone https://github.com/darcyfontenele/esdo-padroes-de-projetos.git
         ```
 2. Montagem do ambiente
     - Para o ambiente do projeto é recomendado o uso do docker e necessário:
