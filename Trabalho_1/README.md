@@ -34,7 +34,7 @@ Para rodar o projeto basta seguir os passos listados a seguir:
 3. Build
     - Para buidar o projeto é necessário executar o comando abaixo na pasta raiz.
         ```
-            mvn clean package install
+        mvn clean package install
         ```
 4. Deploy
     - Utilizando docker:
@@ -44,5 +44,7 @@ Para rodar o projeto basta seguir os passos listados a seguir:
             ```
         2. Executar o comando abaixo para iniciar o servidor.
             ```
-            docker run --rm -p 8080:8080 -v /<PATH PARA O PROJETO>/target/trabalho-1.war:/usr/local/tomcat/webapps/trabalho-1.war --network=host --name trabalho-1  trabalho-1
+            docker run --rm -v /<PATH PARA O PROJETO>/target/trabalho-1.war:/usr/local/tomcat/webapps/trabalho-1.war --network=host --name trabalho-1  trabalho-1
             ```
+5. Acesso através da URI:
+    http://localhost:8080/trabalho-1/books
