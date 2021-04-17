@@ -1,5 +1,5 @@
-##Padrões de Projeto
+## Project Patterns Course
+*Repository with the projects developed in project patterns course.
 
-######Aluno: Antonio Darcy Soares Fontenele
-
-Repositório com os trabalhos desenvolvidos na disciplina de Padrões de Projeto.
+#### Summary
+1. Example 1
