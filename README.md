@@ -1,5 +1,9 @@
-##Padrões de Projeto
+# Project Patterns Course
+*Repository with the projects developed in project patterns course.
 
-######Aluno: Antonio Darcy Soares Fontenele
-
-Repositório com os trabalhos desenvolvidos na disciplina de Padrões de Projeto.
+---
+## Projects
+### **1.** Book Manager
+### **2.** Movie Manager
+- **Backend** - Java 11 with Spring Boot
+- **Frontend** - React
